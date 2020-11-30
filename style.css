@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e0ccd3;
+  font-family: "Castoro", serif;
+}
+
+#webpage .header {
+  text-align: center;
+  height: 150px;
+  padding-top: 3rem;
+}
+
+#webpage .header h1 {
+  font-size: 60px;
+}
+
+#webpage .content img {
+  padding-top: 4rem;
+  height: 500px;
+  width: 100%;
+}
+
+#webpage .content .text {
+  padding-top: 5rem;
+}
+/*# sourceMappingURL=style.css.map */

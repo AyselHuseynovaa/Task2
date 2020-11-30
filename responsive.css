@@ -1,0 +1,19 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .header {
+    height: 50px;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-size: 12px;
+  }
+
+  img {height: 100px;
+    width: 100%;
+  }
+  .text {
+    padding-top: 2.5rem;
+  }
+}
